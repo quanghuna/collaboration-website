@@ -16,6 +16,7 @@
 </head>
 
 <body>
-  <script src="js/scripts.js"></script>
+<h1> Test from quangnd account</h1>
+  <a href="google.com">Link</a>
 </body>
 </html>
